@@ -1,0 +1,92 @@
+{
+  "books": [
+    {
+      "id": "B100",
+      "name": "The Old man and Sea",
+      "author": "Ernest Hemingway",
+      "price": "650",
+      "image": "https://m.media-amazon.com/images/I/61wD5tlFIVL.jpg",
+      "description": "The Old Man and the Sea is a 1952 novella by the American author Ernest Hemingway. Written between December 1950 and February 1951, it was the last major fictional work Hemingway published during his lifetime. It tells the story of Santiago, an aging fisherman, and his long struggle to catch a giant marlin. The novella was highly anticipated and was released to record sales; the initial critical reception was equally positive, but attitudes have varied significantly since then.",
+      "language": "English",
+      "genre": "Literary fiction",
+      "pubDate": "1952-09-01"
+    },
+    {
+      "image": "https://i.pinimg.com/564x/f7/c8/12/f7c812c9b0296cd9f119e33a06d9a256.jpg",
+      "id": "B110",
+      "name": "The Past Is Rising",
+      "author": "Kathryn Bywaters ",
+      "price": "500",
+      "description": "The Past Is Rising is a compelling fantasy epic that revolves around the uprising of dark forces bent on wresting a kingdom from its rightful rulers. Several warriors will discover that their true destinies are to salvage their kingdom and defeat the rising evil.",
+      "language": "English",
+      "pubDate": "2017-03-29",
+      "genre": "Fantasy"
+    },
+    {
+      "image": "https://i2.wp.com/theverybesttop10.com/wp-content/uploads/2017/06/The-Top-10-Best-Selling-Books-of-All-Time-2017-2.jpg?resize=600,1006",
+      "id": "B115",
+      "name": "A Tale of Two Cities",
+      "author": "Charles Dickens",
+      "price": "300",
+      "description": "A Tale of Two Cities is a historical novel published in 1859 by English author Charles Dickens, set in London and Paris before and during the French Revolution. The novel tells the story of the French Doctor Manette, his 18-year-long imprisonment in the Bastille in Paris, and his release to live in London with his daughter Lucie whom he had never met. The story is set against the conditions that led up to the French Revolution and the Reign of Terror.",
+      "language": "English",
+      "genre": "Historical Novel",
+      "pubDate": "1859-11-24"
+    },
+    {
+      "id": "B102",
+      "image": "https://th.bing.com/th/id/OIP.rKY-WsdQ7_EwqBCci-oz8QHaLL?rs=1&pid=ImgDetMain",
+      "name": "The Alchemist",
+      "author": "Paulo Coelho",
+      "price": "200",
+      "description": "The Alchemist (Portuguese: O Alquimista) is a novel by Brazilian author Paulo Coelho which was first published in 1988. Originally written in Portuguese, it became a widely translated international bestseller. The story follows the shepherd boy Santiago in his journey across North Africa to the Egyptian pyramids after he dreams of finding treasure there.",
+      "language": "English",
+      "genre": "Quest, adventure, fantasy",
+      "pubDate": "1993-08-10"
+    },
+    {
+      "image": "https://image.tmdb.org/t/p/original/6jexEWBXepwB1ZLpCEllI04Agrb.jpg",
+      "id": "B104",
+      "name": "The Davinci Code",
+      "author": "Dan Brown",
+      "price": "350",
+      "pubDate": "2003-03-18",
+      "genre": "Mystery, Detective fiction, Conspiracy fiction, Thriller",
+      "language": "english",
+      "description": "The Da Vinci Code is a 2003 mystery thriller novel by Dan Brown. It is Brown's second novel to include the character Robert Langdon: the first was his 2000 novel Angels & Demons. The Da Vinci Code follows symbologist Langdon and cryptologist Sophie Neveu after a murder in the Louvre Museum in Paris entangles them in a dispute between the Priory of Sion and Opus Dei over the possibility of Jesus and Mary Magdalene having had a child together."
+    },
+    {
+      "description": "2 States: The Story of My Marriage,[1] commonly known as 2 States,[2] is a 2009 novel written by Chetan Bhagat.[3] It is the story about a couple coming from two states in India, who face hardships in convincing their parents to approve of their marriage. Bhagat wrote this novel after quitting his job as an investment banker. This is his fourth book after Five Point Someone, One Night @ the Call Center and The Three Mistakes of My Life.",
+      "author": "Chetan Bhagath",
+      "pubDate": "2009-10-08",
+      "price": "200",
+      "name": "Two States",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/3a/2_States_-_The_Story_Of_My_Marriage.jpg",
+      "id": "B201",
+      "language": "English",
+      "genre": "Fiction,Romance"
+    },
+    {
+      "description": "The theme of the novel, focuses on the love between Basheer, a prisoner, and a female inmate of the prison, who remains unseen throughout the novel.[4] In Mathilukal, though the broad frame is autobiographical and the narration is first person, the details seem to contain sprinkles of fantasy.[5]",
+      "id": "B120",
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/dd/Mathilukalbook.jpg",
+      "name": "Mathilukal",
+      "author": "Basheer",
+      "price": "200",
+      "language": "Malayalam",
+      "genre": "Romance,patriotic",
+      "pubDate": "1965-11-10"
+    },
+    {
+      "id": "B205",
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/46/My_Story_Kamala_Das.jpeg",
+      "name": "Ente Katha",
+      "author": "MadhaviKutty",
+      "price": "140",
+      "language": "Malayalam",
+      "genre": "Autobiography",
+      "description": "My Story is an autobiographical book written by Indian author and poet Kamala Das (also known as Kamala Surayya or Madhavikutty). The book was originally published in Malayalam, titled Ente Katha. The book evoked violent reactions of admiration and criticism among the readers and critics. It remains to date the best-selling woman's autobiography in India.",
+      "pubDate": "1973-02-01"
+    }
+  ]
+}
